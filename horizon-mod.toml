@@ -1,0 +1,8 @@
+id = "netherstarrecipe"
+name = "Nether Star Crafting"
+version = "1.0.0"
+description = "Adds craftable recipes for the Nether Star and a new intermediate item, the Netherstar Shard. ネザースターのクラフトレシピと、中間素材「ネザースターの欠片」を追加します。"
+authors = ["Mya"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

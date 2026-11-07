@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " F ",
+    "FTF",
+    " F "
+  ],
+  "key": {
+    "F": "netherstarrecipe:netherstar_shard",
+    "T": "minecraft:ghast_tear"
+  },
+  "result": { "id": "minecraft:nether_star", "count": 1 }
+}
